@@ -1,5 +1,5 @@
 # Flix-And-Pix
-This repo has been created for the website Flix and Pix that has been created to fetch movies from the API and display it.
+This repo has been created for the website Flix & Pix that has been created to fetch movies from the API and display it.
 
 ## How To Run
 Link:
@@ -9,22 +9,22 @@ Link:
 
 2.Filter the movies to watch according to the genre using the explore option present in the navigation bar.
 
-3.Can search for a perticular movie to watch using the search option on the navigation bar.
+3.Can search for a particular movie to watch using the search option in the navigation bar.
 
-4.Movie recomendations are provided based on the recent searches.
+4.Movie recommendations are provided based on the recent searches.
 
-5.Get the movies along with their breif overview and ratings.
+5.Get the movies along with their brief overview and ratings.
 
-6.Happy Watching!!
+6.Happy Watching :)
 
 
-##  Discription
-Flix-And-Pix is a online website fetching data using API from TMDB database about information related to films along with their ratings and critical reviews.
+##  Description
+Flix & Pix is an online website fetching data using API from TMDB database about information related to films along with their ratings and critical reviews.
 
 ## Feature
--> Provides the overview and rating of the leatest movies available.
+-> Provides the overview and rating of the latest movies available.
 
--> It allows the new users to register and old ones to login in order to improve the recomendation system based on the recent searches.
+-> It allows the new users to register and old ones to login in order to improve the recommendation system based on the recent searches.
 
 ## Table Of Contents
 
