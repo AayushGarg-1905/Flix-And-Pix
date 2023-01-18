@@ -33,8 +33,7 @@ header {
 .search::placeholder {
   color: #7378c5;
 }
-main,
-#recommendations {
+#main,#recommendations {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
